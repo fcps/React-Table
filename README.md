@@ -2,6 +2,15 @@
 This project is a fully responsive React Table that allows for multi-column sorting and multi-column filtering.
 You are free to use and modify this code as you wish.  
 
+Here is a basic Table with 3 Columns
+![Basic Table Example](https://github.com/drewbutcher/React-Table/blob/master/example-images/Table%20Image.png)
+
+In this image one is Filtering on a single Column.  Note that filter on multiple columns is also an option.
+![Filtering on One Column](https://github.com/drewbutcher/React-Table/blob/master/example-images/Column%20Filtering.png)
+
+
+In this image One is Filtering and Sorting
+![Column Filtering And Sorting.png](https://github.com/drewbutcher/React-Table/blob/master/example-images/Column%20Filtering%20And%20Sorting.png)
 
 # Requirements
 You will need npm which comes with node.js.  Currently I am running 
@@ -12,7 +21,6 @@ You will need npm which comes with node.js.  Currently I am running
 
 To see if you have these installed on your machine and what version run`npm --version` `node --version`. If you are missing either you can download both by downloading node.js at [https://nodejs.org/en/](https://nodejs.org/en/)
 
-![Column Filtering And Sorting.png](https://github.com/drewbutcher/React-Table/blob/master/example-images/Column%20Filtering%20And%20Sorting.png)
 
 # Directions
 Step 1) Download the project From GitHub
