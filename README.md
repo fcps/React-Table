@@ -62,5 +62,5 @@ Once you create the production build the data is stored in the javascript file b
 4) Header do not have to all appear in the same order. 
 5) In fact each row does **not** have to have the same set of header, as missing headers will create blanks in the table.
 
-#License
+# License
 Apache License 2.0 ![License](https://github.com/drewbutcher/React-Table/blob/master/LICENSE)
