@@ -1,0 +1,30 @@
+{
+    "title": "Table Name",
+    "dataValues": [
+        {
+            "Name": "Bob",
+            "Age": 32,
+            "Hobby": "basketball"
+        },
+        {
+            "Name": "Sue",
+            "Hobby": "running",
+            "Age": 27
+        },
+        {
+            "Name": "Drew",
+            "Hobby": "swimming"
+        },
+        {
+            "Name": "Bill",
+            "Age": 34,
+            "Hobby": "running"
+        },
+        {
+            "Name": "Tim",
+            "Age": 57,
+            "Hobby": "running"
+        }
+    ]
+}
+
