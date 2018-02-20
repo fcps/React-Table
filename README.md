@@ -12,6 +12,7 @@ You will need npm which comes with node.js.  Currently I am running
 
 To see if you have these installed on your machine and what version run`npm --version` `node --version`. If you are missing either you can download both by downloading node.js at [https://nodejs.org/en/](https://nodejs.org/en/)
 
+(https://github.com//drewbutcher/React-Table/blob/master/example-images/Column%20Filtering%20And%20Sorting.png "Column Filtering And Sorting.png")
 
 # Directions
 Step 1) Download the project From GitHub
