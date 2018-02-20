@@ -1,6 +1,5 @@
 # Description
 This project is a fully responsive React Table that allows for multi-column sorting and multi-column filtering.
-You are free to use and modify this code as you wish.  
 
 Here is a basic Table with 3 Columns
 ![Basic Table Example](https://github.com/drewbutcher/React-Table/blob/master/example-images/Table%20Image.png)
@@ -62,3 +61,6 @@ Once you create the production build the data is stored in the javascript file b
 3) Values an either be strings or integers.  
 4) Header do not have to all appear in the same order. 
 5) In fact each row does **not** have to have the same set of header, as missing headers will create blanks in the table.
+
+#License
+Apache License 2.0 ![License](https://github.com/drewbutcher/React-Table/blob/master/LICENSE)
